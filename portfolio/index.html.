@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Patosvi - Personal Portfolio</title>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Patroba Osoo</h1>
+        <p>Creative Developer | Passionate about code, design, and clean UX</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Introduction Section -->
+    <section id="introduction">
+        <h2>Introduction</h2>
+        <p>Hello! I'm Pato svi, a web developer with a focus on building accessible and responsive websites that create delightful user experiences. Welcome to my portfolio!</p>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <h2>Projects</h2>
+
+        <article class="project">
+            <h3>Personal Blog Website</h3>
+            <p>A responsive blog built with HTML, CSS, and JavaScript. Features light/dark mode and animated transitions.</p>
+            <a href="https://example.com/blog" target="_blank">View Project</a>
+        </article>
+
+        <article class="project">
+            <h3>Weather App</h3>
+            <p>A real-time weather forecast app using OpenWeather API, built with React.</p>
+            <a href="https://example.com/weatherapp" target="_blank">View Project</a>
+        </article>
+
+        <article class="project">
+            <h3>Portfolio Website</h3>
+            <p>The site you're viewing now! Built with semantic HTML and structured for maintainability.</p>
+            <a href="https://example.com/portfolio" target="_blank">View Project</a>
+        </article>
+
+    </section>
+
+    <!-- About Me Section -->
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I’m a lifelong learner and self-taught developer who enjoys solving problems with clean and simple code.</p>
+        <ul>
+            <li>Languages: HTML, CSS, JavaScript, Python</li>
+            <li>Hobbies: Photography, reading sci-fi, and hiking</li>
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out via email or connect with me on LinkedIn and GitHub!</p>
+        <ul>
+            <li><a href="mailto:jane.doe@example.com">Email Me</a></li>
+            <li><a href="https://www.linkedin.com/in/patosvi" target="_blank">LinkedIn</a></li>
+            <li><a href="https://github.com/patosvi/My_First_Portfolio.git" target="_blank">GitHub</a></li>
+        </ul>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Patosvi </p>
+    </footer>
+
+</body>
+</html>
